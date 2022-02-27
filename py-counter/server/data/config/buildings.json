@@ -1,0 +1,70 @@
+[{
+		"title":"База1",
+		"data":{
+			"temp":31,
+			"hum":45,
+			"gas":830,
+			"count":2
+		},
+
+		"limit":{
+			"1":3,
+			"2":7,
+			"3":10
+		},
+		"last_update":9,
+		"img":"",
+		"backgroundColor":"rgb(54, 162, 235)"
+	},
+	{
+		"title":"Mega Silkway",
+		"data":{
+			"temp":0,
+			"hum":0,
+			"gas":0,
+			"count":73
+		},
+		"limit":{
+			"1":50,
+			"2":120,
+			"3":200
+		},
+		"last_update":10,
+		"img":"mega2.jpg",
+		"backgroundColor":"rgb(54, 162, 235)"
+	},
+	{
+		"title":"EXPO шар",
+		"data":{
+			"temp":2,
+			"hum":0,
+			"gas":0,
+			"count":156
+		},
+		"limit":{
+			"1":50,
+			"2":150,
+			"3":200
+		},
+		"last_update":36,
+		"img":"expo1.jpg",
+		"backgroundColor":"rgb(54, 162, 235)"
+	},
+	{
+		"title":"База 11",
+		"data":{
+			"temp":2,
+			"hum":45,
+			"gas":1200,
+			"count":1
+		},
+		"limit":{
+			"1":5,
+			"2":12,
+			"3":20
+		},
+		"last_update":36,
+		"img":"",
+		"backgroundColor":"rgb(54, 162, 235)"
+	}
+]
